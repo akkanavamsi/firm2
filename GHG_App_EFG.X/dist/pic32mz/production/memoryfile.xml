@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/pic32mz/production/GHG_App_EFG.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2094208</length>                 
+      <used>176812</used>                     
+      <free>1917396</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>18672</used>                     
+      <free>505616</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
